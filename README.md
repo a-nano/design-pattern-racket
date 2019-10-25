@@ -1,1 +1,1 @@
-"# design-pattern-racket" 
+# design-pattern-racket
